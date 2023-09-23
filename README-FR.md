@@ -56,7 +56,7 @@ Démarrez un projet de groupe en utilisant Vite. Parcourez les dossiers et les f
 **_20 min_**
 
 {: .alerte-info}
-Concentrez-vous sur **index.js et App.js**. C’est tout à fait normal de ne pas savoir ce que font tous les fichiers. Mais ce sera une bonne pratique pour l’avenir de savoir qu’ils existent et d’essayer de deviner quel est leur but. _Vous pouvez complètement ignorer le contenu du dossier **node_modules**._
+Concentrez-vous sur **main.jsx et App.jsx**. C’est tout à fait normal de ne pas savoir ce que font tous les fichiers. Mais ce sera une bonne pratique pour l’avenir de savoir qu’ils existent et d’essayer de deviner quel est leur but. _Vous pouvez complètement ignorer le contenu du dossier **node_modules**._
 
 ## 😎 Défi final
 
