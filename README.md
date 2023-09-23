@@ -1,7 +1,3 @@
----
-title: Group review on React
----
-
 # Let's take stock of React
 
 [⬅ Version FR](./README-FR)

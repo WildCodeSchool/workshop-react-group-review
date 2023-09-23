@@ -12,6 +12,7 @@ defaults:
       layout: "default" # possible values: default or tic-tac
 
 style: dev # possible values: dev, data, ciber, design or wild.
+title: Group review on React
 description: ""
 # type: ''
 # main_image: '' # http or relative path to image
